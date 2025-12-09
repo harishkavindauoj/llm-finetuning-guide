@@ -1649,14 +1649,7 @@ Solutions:
 ## Conclusion
 
 Fine-tuning LLMs has evolved from expensive full fine-tuning to efficient parameter-efficient methods. **LoRA and QLoRA** have emerged as the dominant techniques, offering an excellent balance of efficiency, accuracy, and ease of use.
-
-**Start Here:**
-1. Collect 500-2K quality examples in your domain
-2. Use QLoRA (consumer GPU) or LoRA (workstation GPU)
-3. Train with r=16, standard target modules
-4. Evaluate, iterate, and improve
-
-The field continues to evolve, but the fundamentals covered here will serve you well for practical applications. Focus on data quality, proper evaluation, and gradual improvement rather than chasing the latest technique.
+The field continues to evolve, but the fundamentals covered here will serve you well for practical applications. Focus on data quality, proper evaluation, and gradual improvement.
 
 Happy fine-tuning!
 
